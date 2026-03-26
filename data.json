@@ -1,0 +1,15 @@
+[
+  {"text": "I love this product", "label": "positive"},
+  {"text": "This is amazing", "label": "positive"},
+  {"text": "Very good experience", "label": "positive"},
+  {"text": "I am happy with this", "label": "positive"},
+  {"text": "This is terrible", "label": "negative"},
+  {"text": "Waste of money", "label": "negative"},
+  {"text": "Very bad quality", "label": "negative"},
+  {"text": "I hate this", "label": "negative"},
+
+  {"text": "This product is fantastic", "label": "positive"},
+  {"text": "Really enjoyed using this", "label": "positive"},
+  {"text": "Absolutely horrible experience", "label": "negative"},
+  {"text": "Not worth the price", "label": "negative"}
+]

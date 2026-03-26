@@ -1,0 +1,10 @@
+Round 1 | mutation=Ask for rationale behind design choices. | score=0.10 | best=0.10 | KEEP
+Round 2 | mutation=Add pricing preview. | score=0.20 | best=0.20 | KEEP
+Round 3 | mutation=Add pricing preview. | score=0.20 | best=0.20 | REJECT
+Round 4 | mutation=Include a feature section. | score=0.30 | best=0.30 | KEEP
+Round 5 | mutation=Ask for rationale behind design choices. | score=0.30 | best=0.30 | REJECT
+Round 6 | mutation=Emphasize hierarchy and spacing. | score=0.50 | best=0.50 | KEEP
+Round 7 | mutation=Define the target audience clearly. | score=0.60 | best=0.60 | KEEP
+Round 8 | mutation=Include a feature section. | score=0.60 | best=0.60 | REJECT
+Round 9 | mutation=Specify a strong CTA. | score=0.70 | best=0.70 | KEEP
+Round 10 | mutation=Mention visual style clearly. | score=0.80 | best=0.80 | KEEP
